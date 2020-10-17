@@ -1,4 +1,4 @@
-![](https://github.com/TsumugiWenders/TsumugiWenders/blob/master/cat.jpg)
+
 ### Hi there 👋
 
 #### Platform&Tools
