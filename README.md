@@ -1,6 +1,7 @@
 
 ### Hi there 👋
-
+![](http://antzuhl.cn:4000/get/@TsumugiWenders.readme)
+![info](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-centos%20Linux-blue?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
