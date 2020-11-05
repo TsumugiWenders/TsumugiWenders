@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 ![](http://antzuhl.cn:4000/get/@TsumugiWenders.readme)
-![info](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+[![TsumugiWenders's github stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-centos%20Linux-blue?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -11,7 +11,7 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsumugiWenders&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![TsumugiWenders's github stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
