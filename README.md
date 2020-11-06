@@ -17,6 +17,8 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-LaTex-3776AB?style=flat-square&logo=LaTex&logoColor=ffffff)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/-Hadoop-FDEA4E?style=flat-square&logo=hadoop&logoColor=ffffff)](https://hadoop.apache.org/)
+[![](https://img.shields.io/badge/-Hive-FF7A00?style=flat-square&logo=Hive&logoColor=ffffff)](https://hive.apache.org/)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsumugiWenders&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
