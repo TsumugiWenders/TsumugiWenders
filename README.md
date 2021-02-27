@@ -2,7 +2,7 @@
 ## Hi，I'm TsumugiWenders
 ---
 ![](http://antzuhl.cn:4000/get/@TsumugiWenders.readme)<br/>
-[![TsumugiWenders's github stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-centos%20Linux-blue?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -21,6 +21,9 @@
 [![](https://img.shields.io/badge/-Hive-FF7A00?style=flat-square&logo=Hive&logoColor=ffffff)](https://hive.apache.org/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
 
+[![TsumugiWenders's github stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
+
+[![TsumugiWenders's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsumugiWenders&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
