@@ -1,7 +1,12 @@
 
 ## Hi，I'm TsumugiWenders
 ---
-![](https://api.moedog.org/count/@TsumugiWenders.readme)<br/>
+<!-- ![](https://api.moedog.org/count/@TsumugiWenders.readme)<br/> -->
+
+<p>
+  <a href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@TsumugiWenders.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@qingdao?v=1" align="right">
+</p>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-centos%20Linux-blue?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
