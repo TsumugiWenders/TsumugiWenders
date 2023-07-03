@@ -1,8 +1,8 @@
 
 ## Hi，I'm TsumugiWenders
----
-<!-- ![](https://api.moedog.org/count/@TsumugiWenders.readme)<br/> -->
 
+<!-- ![](https://api.moedog.org/count/@TsumugiWenders.readme)<br/> -->
+---
 <p>
   <a href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@TsumugiWenders.readme"></a>
   <img src="https://weather-icon.journeyad.repl.co/@qingdao?v=1" align="right">
@@ -25,6 +25,12 @@
 [![](https://img.shields.io/badge/-Hadoop-FDEA4E?style=flat-square&logo=hadoop&logoColor=ffffff)](https://hadoop.apache.org/)
 [![](https://img.shields.io/badge/-Hive-FF7A00?style=flat-square&logo=Hive&logoColor=ffffff)](https://hive.apache.org/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
+
+---
+- 🔭 I’m currently working on software development
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about ~~anything~~ ?
+---
 
 [![TsumugiWenders's github stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
 
