@@ -1,8 +1,8 @@
 
 ## Hi，I'm TsumugiWenders
 
-<!-- ![](https://api.moedog.org/count/@TsumugiWenders.readme)<br/> -->
----
+<!-- <h1>我厌倦了体制内的生活，厌倦了这份平平无奇的工作，厌倦了甘于平凡的自己，有时候我很想为自己再重新活一次，我想回到以前的那个我，但我明白一切都回不去了。</h1> -->
+
 <p>
   <a href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@TsumugiWenders.readme"></a>
   <img src="https://weather-icon.journeyad.repl.co/@qingdao?v=1" align="right">
@@ -35,18 +35,3 @@
 [![TsumugiWenders's github stats](https://github-readme-stats.vercel.app/api?username=TsumugiWenders&show_icons=true&count_private=true&hide=prs&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsumugiWenders&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsumugiWenders&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
